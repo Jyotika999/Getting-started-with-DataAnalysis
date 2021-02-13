@@ -1,2 +1,4 @@
-# Getting-started-with-Pandas :panda_face::panda_face:
-Basic actions performed while working with pandas in ipython and jupyter notebook
+# Getting-started-with-DataAnalysis
+
+* Pandas working and basics. :panda_face::panda_face:
+* Numpy working and basics.
